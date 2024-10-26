@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @ColeHenke
-<!---
-ColeHenke/ColeHenke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @ColeHenke, I do the code
+
+Here are some things I'm ok with:
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,ts,angular,postman,postgres,py&theme=dark)](https://skillicons.dev)
+
+Here are some things I'm doing my best to get better at:
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow)](https://skillicons.dev)
+
+Here's what's next on my list:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
