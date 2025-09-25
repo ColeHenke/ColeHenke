@@ -6,11 +6,11 @@ Here are some things I'm ok with:
 
 Here are some things I'm doing my best to get better at:
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,mongodb,aws)](https://skillicons.dev)
 
 Here's what's next on my list:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,zig)](https://skillicons.dev)
 
 Here's what I use most often on here:
 
